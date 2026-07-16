@@ -1,4 +1,4 @@
-function saludar(nombre) {
+function () {
   alert(67);
 }
 
