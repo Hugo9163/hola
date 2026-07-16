@@ -1,1 +1,4 @@
-<script>alert(67)</script>
+function saludar(nombre) {
+  alert(67);
+}
+
